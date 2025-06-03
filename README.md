@@ -33,6 +33,8 @@ def about_me():
 
 **[Hands on Machine Learning - A beginner's guide](https://machine-learning-for-beginners.hashnode.dev/hands-on-machine-learning-a-beginners-guide-20252026)**
 
+## Github Stats
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=risheeee&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
