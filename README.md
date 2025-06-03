@@ -54,7 +54,7 @@ Developer with a deep interest in building at the intersection of **AI, systems,
 
 ## 📌 Featured Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=risheeee&repo=your-top-repo&theme=default)](https://github.com/risheeee/your-top-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=risheeee&repo=your-top-repo&theme=default)](https://github.com/risheeee/MediBot)
 
 ---
 
