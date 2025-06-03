@@ -1,68 +1,46 @@
-# Hi, I'm Rishee!
+# Hey, I'm Rishee 👋
 
-Developer with a deep interest in building at the intersection of **AI, systems, and structured knowledge**.
+Building AI stuff that actually works. Currently obsessed with making agents that can think for themselves.
 
-- 🧠 Focus: Deep Learning, GenAI, Agentic AI
-- 🛠️ Recent: Built a medical chatbot with Gemini, Pinecone & Flask
-- ✍️ Writing on [Hashnode](https://hashnode.com/@rushedcomet)
-- 🧭 Interests: Neural architectures • Retrieval systems • Generative AI
+```python
+def about_me():
+    return {
+        "focus": "AI agents & RAG systems",
+        "building": "Projects that help the world", 
+        "learning": "Fullstack LLM's and avdanced RAG",
+        "status": "Probably debugging something"
+    }
+```
 
----
+## What I'm up to
 
-## 🚀 Currently Exploring
+**Making smarter AI agents** 
 
-- 🤖 LangGraph + LangChain agents
-- 🧩 Advanced Retrieval-augmented generation (RAG)
-- 🛜 Fullstack LLM's
+**Better RAG systems** 
 
----
+**Writing about it** - Documenting the journey at [my blog](https://hashnode.com/@rushedcomet)
 
-## 🧰 Tech Toolbox
+## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat)
-![Pinecone](https://img.shields.io/badge/Pinecone-2E3440?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+`Python` `Java` `TensorFlow` `PyTorch` `LangChain` `Pinecone` `Flask` `Docker`
 
+## Recent project
 
----
+**[MediBot](https://github.com/risheeee/MediBot)** - Medical chatbot that combines Gemini's reasoning with vector search. Actually helpful, not just another WebMD wrapper.
 
-## 📝 Recent Posts
+<div align="center">
 
-- [Graphs over Chains](https://my-langgraph-journey.hashnode.dev/graphs-over-chains-my-first-steps-with-langgraph-part-1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=risheeee&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=risheeee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css)
 
-## 📊 GitHub Stats
+![Streak](https://streak-stats.demolab.com/?user=risheeee&theme=github-dark-blue&hide_border=true&background=0d1117)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=risheeee&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=transparent" alt="Rishee's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risheeee&layout=compact&hide=html,css&theme=transparent" alt="Top Langs" />
-</p>
+</div>
+
+## Let's Connect
+
+[Blog](https://hashnode.com/@rushedcomet) • [LinkedIn](https://www.linkedin.com/in/rishee-panchal)
 
 ---
-
-## 📌 Featured Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=risheeee&repo=your-top-repo&theme=default)](https://github.com/risheeee/MediBot)
-
----
-
-## 💼 Find Me Elsewhere
-
-- 📝 [Hashnode Blog](https://hashnode.com/@rushedcomet)
-- 💬 [LinkedIn](www.linkedin.com/in/rishee-panchal)
-
----
-
-> “Do not seek to follow in the footsteps of the wise. Seek what they sought.” — *Matsuo Bashō*
+*Building the future, one commit at a time*
