@@ -15,7 +15,9 @@ def about_me():
 ## What I'm up to
 
 **Making smarter AI agents** 
+
 **Better RAG systems** 
+
 **Writing about it** - Documenting the journey at [my blog](https://hashnode.com/@rushedcomet)
 
 ## Stack
@@ -28,6 +30,7 @@ def about_me():
 
 ## Recent Blogs
 **[Graphs over Chains](https://my-langgraph-journey.hashnode.dev/graphs-over-chains-my-first-steps-with-langgraph-part-1)**
+
 **[Hands on Machine Learning - A beginner's guide](https://machine-learning-for-beginners.hashnode.dev/hands-on-machine-learning-a-beginners-guide-20252026)**
 
 <div align="center">
