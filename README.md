@@ -45,16 +45,16 @@ Developer with a deep interest in building at the intersection of **AI, systems,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=risheeee2000&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=transparent" alt="Rishee's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=risheeee&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=transparent" alt="Rishee's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risheeee2000&layout=compact&hide=html,css&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risheeee&layout=compact&hide=html,css&theme=transparent" alt="Top Langs" />
 </p>
 
 ---
 
 ## 📌 Featured Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=risheeee2000&repo=your-top-repo&theme=default)](https://github.com/rishee2000/your-top-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=risheeee&repo=your-top-repo&theme=default)](https://github.com/risheeee/your-top-repo)
 
 ---
 
