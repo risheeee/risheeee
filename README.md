@@ -34,16 +34,15 @@ def about_me():
 **[Hands on Machine Learning - A beginner's guide](https://machine-learning-for-beginners.hashnode.dev/hands-on-machine-learning-a-beginners-guide-20252026)**
 
 ## Github Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=risheeee&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=risheeee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css)
-
-![Streak](https://streak-stats.demolab.com/?user=risheeee&theme=github-dark-blue&hide_border=true&background=0d1117)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=risheeee&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risheeee&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=risheeee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## Let's Connect
 
