@@ -29,6 +29,8 @@ def about_me():
 **[MediBot](https://github.com/risheeee/MediBot)** - Medical chatbot that combines Gemini's reasoning with vector search. Actually helpful, not just another WebMD wrapper.
 
 ## Recent Blogs
+**[How LangGraph transformed my coding Journey](https://my-langgraph-journey.hashnode.dev/how-langgraph-transformed-my-coding-journey-from-hello-world-to-ai-assistants)**
+
 **[Graphs over Chains](https://my-langgraph-journey.hashnode.dev/graphs-over-chains-my-first-steps-with-langgraph-part-1)**
 
 **[Hands on Machine Learning - A beginner's guide](https://machine-learning-for-beginners.hashnode.dev/hands-on-machine-learning-a-beginners-guide-20252026)**
