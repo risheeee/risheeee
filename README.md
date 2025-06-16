@@ -16,7 +16,7 @@ def about_me():
 
 **Making smarter AI agents** 
 
-**Better RAG systems** 
+**Making FullStack AI Agents**
 
 **Writing about it** - Documenting the journey at [my blog](https://hashnode.com/@rushedcomet)
 
