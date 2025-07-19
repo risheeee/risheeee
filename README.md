@@ -2,11 +2,13 @@
 
 > Building AI systems that move beyond demos with a focus on autonomous agents, reasoning workflows, and scalable full-stack GenAI applications.
 
+
 ## 🚀 What I’m Working On
 
 * **LLM-based Agents** – Architecting autonomous systems with memory, reasoning, and tool use
 * **Full-Stack GenAI Development** – End-to-end development: backend, frontend, LLM integration, and deployment
 * **Technical Writing** – Documenting research, experiments, and implementations on [Hashnode](https://hashnode.com/@rushedcomet) & [Dev Community](https://dev.to/rushedcomet)
+
 
 ## 🛠️ Tech Stack
 
@@ -16,10 +18,12 @@
 
 > Comfortable working across the stack from data and model pipelines to UI and API deployment.
 
+
 ## 🧠 Recent Project
 
 **[🩺 MediBot](https://github.com/risheeee/MediBot)**
 A medical assistant chatbot combining structured reasoning with domain-specific knowledge built for actual utility, not just a wrapper.
+
 
 ## ✍️ Latest Blogs
 
