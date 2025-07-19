@@ -53,4 +53,4 @@ A medical assistant chatbot combining structured reasoning with domain-specific 
 
 ## 🌐 Let’s Connect
 
-[🔗 Blog](https://hashnode.com/@rushedcomet) • [🔗 LinkedIn](https://www.linkedin.com/in/rishee-panchal)
+[🔗 Hashnode](https://hashnode.com/@rushedcomet) • [🔗 LinkedIn](https://www.linkedin.com/in/rishee-panchal)
