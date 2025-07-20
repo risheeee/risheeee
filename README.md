@@ -5,7 +5,7 @@
 
 ## 🚀 What I’m Working On
 
-* **LLM-based Agents** – Architecting autonomous systems with memory, reasoning, and tool use
+* **DAG Pipelines** 
 * **Full-Stack GenAI Development** – End-to-end development: backend, frontend, LLM integration, and deployment
 * **Technical Writing** – Documenting research, experiments, and implementations on [Hashnode](https://hashnode.com/@rushedcomet) & [Dev Community](https://dev.to/rushedcomet)
 
