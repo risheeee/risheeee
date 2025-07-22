@@ -27,7 +27,7 @@ A medical assistant chatbot combining structured reasoning with domain-specific 
 
 ## ✍️ Latest Blogs
 
-* [**How I Ditched LangChain to create my own custom RAG**](https://genai-rag.hashnode.dev/vanilla-rag)
+* [**How I Ditched LangChain to create my own custom RAG**](https://dev.to/rushedcomet/graphs-over-chains-my-langgraph-journey-part-1-2g6n)
 * [**How LangGraph Transformed My Coding Journey**](https://my-langgraph-journey.hashnode.dev/how-langgraph-transformed-my-coding-journey-from-hello-world-to-ai-assistants)
 * [**Graphs over Chains: My First Steps with LangGraph (Part 1)**](https://my-langgraph-journey.hashnode.dev/graphs-over-chains-my-first-steps-with-langgraph-part-1)
 
