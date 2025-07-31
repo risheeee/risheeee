@@ -7,12 +7,12 @@
 
 * **DAG Pipelines** 
 * **Full-Stack GenAI Development** – End-to-end development: backend, frontend, LLM integration, and deployment
-* **Technical Writing** – Documenting research, experiments, and implementations on [Hashnode](https://hashnode.com/@rushedcomet) & [Dev Community](https://dev.to/rushedcomet)
+* **Technical Writing** – Documenting research, experiments, and implementations on [Dev Community](https://dev.to/rushedcomet) & [Hashnode](https://hashnode.com/@rushedcomet)
 
 
 ## 🛠️ Tech Stack
 
-`Python` `Java` `TensorFlow` `PyTorch` `JavaScript`
+`Python` `Java` `TensorFlow` `PyTorch` `JavaScript` 
 `MERN Stack (MongoDB, Express, React, Node.js)`
 `Docker` `Flask` `Git` 
 
@@ -27,9 +27,9 @@ A medical assistant chatbot combining structured reasoning with domain-specific 
 
 ## ✍️ Latest Blogs
 
+* [**Beyond Tokens: What LLMs actually Understand**](https://dev.to/rushedcomet/beyond-tokens-what-llms-actually-understand-and-what-they-dont-4hdn)
 * [**How I Ditched LangChain to create my own custom RAG**](https://dev.to/rushedcomet/graphs-over-chains-my-langgraph-journey-part-1-2g6n)
 * [**How LangGraph Transformed My Coding Journey**](https://my-langgraph-journey.hashnode.dev/how-langgraph-transformed-my-coding-journey-from-hello-world-to-ai-assistants)
-* [**Graphs over Chains: My First Steps with LangGraph (Part 1)**](https://my-langgraph-journey.hashnode.dev/graphs-over-chains-my-first-steps-with-langgraph-part-1)
 
 
 ## 📊 GitHub Stats
@@ -47,4 +47,4 @@ A medical assistant chatbot combining structured reasoning with domain-specific 
 
 ## 🌐 Let’s Connect
 
-🔗 [Hashnode](https://hashnode.com/@rushedcomet) • 🔗 [LinkedIn](https://www.linkedin.com/in/rishee-panchal)
+🔗 [Dev Community](https://dev.to/rushedcomet) • 🔗 [LinkedIn](https://www.linkedin.com/in/rishee-panchal)
