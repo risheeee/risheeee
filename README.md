@@ -5,7 +5,7 @@
 
 ## 🚀 What I’m Working On
 
-* **DAG Pipelines** 
+* **Cloud technologies** 
 * **Full-Stack GenAI Development** – End-to-end development: backend, frontend, LLM integration, and deployment
 * **Technical Writing** – Documenting research, experiments, and implementations on [Dev Community](https://dev.to/rushedcomet) & [Hashnode](https://hashnode.com/@rushedcomet)
 
@@ -14,15 +14,15 @@
 
 `Python` `Java` `TensorFlow` `PyTorch` `JavaScript` 
 `MERN Stack (MongoDB, Express, React, Node.js)`
-`Docker` `Flask` `Git` 
+`Docker` `Flask` `Git` `Gitlabs` `Kubernetes` `GCP`
 
 > Comfortable working across the stack from data and model pipelines to UI and API deployment.
 
 
 ## 🧠 Recent Project
 
-**[🩺 MediBot](https://github.com/risheeee/MediBot)**
-A medical assistant chatbot combining structured reasoning with domain-specific knowledge built for actual utility, not just a wrapper.
+**[RAG Engine from scratch](https://github.com/risheeee/VanillaRAG)**
+A RAG pipeline created from scratch and not using any abstracted libraries or frameworks
 
 
 ## ✍️ Latest Blogs
