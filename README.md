@@ -10,9 +10,9 @@
 * **Technical Writing** – Documenting research, experiments, and implementations on [Dev Community](https://dev.to/rushedcomet) & [Hashnode](https://hashnode.com/@rushedcomet)
 
 
-<h3 align="center">Tech Stack</h3>
+## Tech Stack
 
-<p align="center">
+<p align="">
   <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
