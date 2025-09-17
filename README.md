@@ -18,8 +18,8 @@ Building AI systems that move beyond demos with a focus on autonomous agents, re
 
 ## 🧠 Recent Project
 
-**[RAG Engine from scratch](https://github.com/risheeee/VanillaRAG)**
-A RAG pipeline created from scratch and not using any abstracted libraries or frameworks
+**[PyPI Package for Explainable Preprocessing](https://pypi.org/project/ml-explain-preprocess/)**
+Explainable preprocessing for ML pipelines with reports and visualizations.
 
 
 ## ✍️ Latest Blogs
