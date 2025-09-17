@@ -1,6 +1,6 @@
 # Rishee Panchal
 
-> Building AI systems that move beyond demos with a focus on autonomous agents, reasoning workflows, and scalable full-stack GenAI applications.
+Building AI systems that move beyond demos with a focus on autonomous agents, reasoning workflows, and scalable full-stack GenAI applications.
 
 
 ## 🚀 What I’m Working On
@@ -24,9 +24,9 @@ A RAG pipeline created from scratch and not using any abstracted libraries or fr
 
 ## ✍️ Latest Blogs
 
+* [**Publishing to PyPI: My first ML Preprocessing library for newbies**](https://dev.to/rushedcomet/publishing-to-pypi-my-ml-preprocessing-package-for-newbies-4kn0)
 * [**Beyond Tokens: What LLMs actually Understand**](https://dev.to/rushedcomet/beyond-tokens-what-llms-actually-understand-and-what-they-dont-4hdn)
 * [**How I Ditched LangChain to create my own custom RAG**](https://dev.to/rushedcomet/graphs-over-chains-my-langgraph-journey-part-1-2g6n)
-* [**How LangGraph Transformed My Coding Journey**](https://my-langgraph-journey.hashnode.dev/how-langgraph-transformed-my-coding-journey-from-hello-world-to-ai-assistants)
 
 
 ## 📊 GitHub Stats
