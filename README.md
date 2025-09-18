@@ -1,12 +1,6 @@
 # Rishee Panchal  
 
-Working on machine learning, cloud platforms, and open source contributions, with a focus on applied AI systems.  
-
----
-
-## Badges    
-![PyPI](https://img.shields.io/pypi/v/ml-explain-preprocess?style=for-the-badge&logo=pypi)  
-![Visits](https://komarev.com/ghpvc/?username=risheeee&style=for-the-badge)  
+Working on **machine learning, cloud platforms, and open source contributions**, with a focus on applied AI systems.  
 
 ---
 
@@ -40,7 +34,7 @@ Working on machine learning, cloud platforms, and open source contributions, wit
 ## Recent Project  
 
 **[ml-explain-preprocess (PyPI)](https://pypi.org/project/ml-explain-preprocess/)**  
-📊 Explainable preprocessing for ML pipelines — missing values, encoding, reports, and visualizations.  
+Explainable preprocessing for ML pipelines, missing values, encoding, reports, and visualizations.  
 
 ---
 
@@ -54,19 +48,19 @@ Working on machine learning, cloud platforms, and open source contributions, wit
 ## GitHub Stats  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/risheeee/risheeee/master/profile-summary-card-output/transparent/0-profile-details.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=risheeee&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/risheeee/risheeee/master/profile-summary-card-output/transparent/3-stats.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=risheeee&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/risheeee/risheeee/master/profile-summary-card-output/transparent/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/risheeee/risheeee/master/profile-summary-card-output/transparent/2-most-commit-language.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risheeee&layout=compact&theme=transparent" alt="Top Languages" />
 </p>  
 
 ---
 
 ## Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishee-panchal)  
-[![Portfolio](https://rishee-panchal-portfolio.vercel.app/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishee-panchal) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rishee-panchal-portfolio.vercel.app) 
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/rushedcomet)  
