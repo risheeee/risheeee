@@ -78,18 +78,6 @@ A comprehensive toolkit for explainable machine learning preprocessing, featurin
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ffcc02/risheeee" alt="GitHub Contribution Chart" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=risheeee&theme=transparent&hide_border=true&stroke=ffcc02&ring=ffcc02&fire=ffcc02" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ## 🤝 Professional Connect
 
 <p align="left">
