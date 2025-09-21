@@ -15,7 +15,7 @@ Exploring developing production ready AI systems, cloud native applications, and
 - Custom RAG implementations and advanced prompt engineering
 
 **Technical Content Creation**
-- Publishing in-depth technical articles on [Dev.to](https://dev.to/rushedcomet) and [Hashnode](https://hashnode.com/@rushedcomet)
+- Publishing in-depth technical articles on [Dev.to](https://dev.to/rushedcomet)
 - Sharing insights on ML engineering, cloud architecture, and AI development
 
 ---
@@ -89,9 +89,6 @@ A comprehensive toolkit for explainable machine learning preprocessing, featurin
 </a>
 <a href="https://dev.to/rushedcomet" target="_blank">
   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-</a>
-<a href="https://hashnode.com/@rushedcomet" target="_blank">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
 </a>
 </p>
 
