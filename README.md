@@ -10,9 +10,8 @@ Exploring developing production ready AI systems, cloud native applications, and
 - Google Cloud Platform (GCP), Kubernetes orchestration, containerization with Docker
 - Building scalable, cloud-native applications and microservices architectures
 
-**Full-Stack Generative AI Development** 
-- End-to-end LLM integration, deployment pipelines, and AI powered applications
-- Custom RAG implementations and advanced prompt engineering
+**Business Ineterests & Analytics**
+- Learning tools such as PowerBI
 
 **Technical Content Creation**
 - Publishing in-depth technical articles on [Dev.to](https://dev.to/rushedcomet)
