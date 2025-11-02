@@ -50,6 +50,7 @@ Exploring developing production ready AI systems, cloud native applications, and
 
 ## 📦 Featured Open Source Project
 
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/ml-explain-preprocess?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/ml-explain-preprocess)
 ### [ml-explain-preprocess](https://pypi.org/project/ml-explain-preprocess/) 
 **PyPI Package | Machine Learning Preprocessing Library**
 
