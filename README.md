@@ -67,8 +67,8 @@ A comprehensive toolkit for explainable machine learning preprocessing, featurin
 ## 📝 Technical Publications
 
 **Recent Articles:**
-- **[Publishing to PyPI: My first ML Preprocessing library](https://dev.to/rushedcomet/publishing-to-pypi-my-ml-preprocessing-package-for-newbies-4kn0)**  
-  Complete guide to packaging and publishing Python libraries to PyPI
+- **[How I Built an Open-Source ML Preprocessing Package (And Published it on PyPI)](https://dev.to/rushedcomet/publishing-to-pypi-my-ml-preprocessing-package-for-newbies-4kn0)**  
+  How I built and published mt first Open-Source ML Preprocessing library.
   
 - **[Beyond Tokens: What LLMs actually Understand](https://dev.to/rushedcomet/beyond-tokens-what-llms-actually-understand-and-what-they-dont-4hdn)**  
   Deep dive into LLM internals and understanding mechanisms
