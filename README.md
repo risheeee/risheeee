@@ -1,21 +1,6 @@
 # Rishee Panchal
 
-Exploring developing production ready AI systems, cloud native applications, and scalable infrastructure solutions. Currently focused on applied machine learning, generative AI, and modern cloud architectures.
-
----
-
-## 🚀 Current Focus
-
-**Cloud & Infrastructure Engineering**
-- Google Cloud Platform (GCP), Kubernetes orchestration, containerization with Docker
-- Building scalable, cloud-native applications and microservices architectures
-
-**Business Ineterests & Analytics**
-- Learning tools such as PowerBI
-
-**Technical Content Creation**
-- Publishing in-depth technical articles on [Dev.to](https://dev.to/rushedcomet)
-- Sharing insights on ML engineering, cloud architecture, and AI development
+Exploring developing production ready AI systems, cloud native applications, and scalable infrastructure solutions. Currently focused on applied machine learning, and modern cloud architectures.
 
 ---
 
