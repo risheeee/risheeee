@@ -52,14 +52,14 @@ A comprehensive toolkit for explainable machine learning preprocessing, featurin
 ## 📝 Technical Publications
 
 **Recent Articles:**
+
+- **[Stop debugging by Hand: I built a Real-Time Linked List visualizer](https://dev.to/rushedcomet/stop-debugging-by-hand-i-built-a-real-time-linked-list-visualizer-2hjm)**
+
 - **[How I Built an Open-Source ML Preprocessing Package (And Published it on PyPI)](https://dev.to/rushedcomet/publishing-to-pypi-my-ml-preprocessing-package-for-newbies-4kn0)**  
   How I built and published mt first Open-Source ML Preprocessing library.
   
 - **[Beyond Tokens: What LLMs actually Understand](https://dev.to/rushedcomet/beyond-tokens-what-llms-actually-understand-and-what-they-dont-4hdn)**  
   Deep dive into LLM internals and understanding mechanisms
-  
-- **[How I Ditched LangChain for a custom RAG](https://dev.to/rushedcomet/graphs-over-chains-my-langgraph-journey-part-1-2g6n)**  
-  Building custom RAG systems with LangGraph for better control and performance
 
 ---
 
