@@ -1,82 +1,103 @@
-# Rishee Panchal
+<h1 align="center">Rishee Panchal</h1>
 
-Exploring developing production ready AI systems, cloud native applications, and scalable infrastructure solutions. Currently focused on applied machine learning, and modern cloud architectures.
-
----
-
-## 🛠️ Technical Expertise
-
-### Programming & Frameworks
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+<p align="center">
+  <b>Building production-ready AI systems, cloud-native applications, and scalable infrastructure.</b><br>
+  <i>3rd Year AIML @ DJSCE · Research Collaborator @ IITM Pune · CGPA 9.45</i>
 </p>
 
-### Cloud & DevOps
+<p align="center">
+  <code>ML / AI Engineer</code> &nbsp;|&nbsp; <code>Open Source</code> &nbsp;|&nbsp; <code>Research</code> &nbsp;|&nbsp; <code>Technical Writer</code>
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=risheeee&show_icons=true&bg_color=161b22&border_color=d97706&title_color=fbbf24&icon_color=d97706&text_color=8b949e&hide_border=false&theme=default" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=risheeee&background=161b22&border=d97706&ring=fbbf24&fire=f59e0b&currStreakLabel=fbbf24&sideLabels=8b949e&dates=6e7681&currStreakNum=fbbf24&sideNums=c9d1d9" alt="Streak Stats" width="48%" />
+</div>
+
+<br>
+
+## 💻 Tech Stack
+
+### Languages
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=d97706" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=d97706" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=d97706" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=java&logoColor=d97706" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=mysql&logoColor=d97706" alt="SQL" />
 </p>
 
-### Machine Learning & AI
+### ML / DL & GenAI
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
+  <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=d97706" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=d97706" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=d97706" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/HuggingFace-161b22?style=flat-square&logo=huggingface&logoColor=d97706" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=d97706" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=d97706" alt="Pandas" />
+  <img src="https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=d97706" alt="OpenCV" />
 </p>
 
----
+### Cloud, DevOps & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/GCP-161b22?style=flat-square&logo=googlecloud&logoColor=d97706" alt="GCP" />
+  <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=d97706" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-161b22?style=flat-square&logo=kubernetes&logoColor=d97706" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=d97706" alt="Kafka" />
+  <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=d97706" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=d97706" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Pinecone-161b22?style=flat-square&logo=pinecone&logoColor=d97706" alt="Pinecone" />
+</p>
 
-## 📦 Featured Open Source Project
+<br>
 
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/ml-explain-preprocess?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/ml-explain-preprocess)
-### [ml-explain-preprocess](https://pypi.org/project/ml-explain-preprocess/) 
-**PyPI Package | Machine Learning Preprocessing Library**
+## 🌍 Open Source
 
-A comprehensive toolkit for explainable machine learning preprocessing, featuring automated handling of missing values, intelligent encoding strategies, detailed preprocessing reports, and comprehensive visualizations. Designed to make ML preprocessing transparent and reproducible.
+### 📦 [ml-explain-preprocess](https://pypi.org/project/ml-explain-preprocess/)
+**PyPI Package · 1,000+ downloads** Automates routine data cleaning, preprocessing, and EDA with built-in explainability — modular XAI functions to interpret ML model decisions and ensure transparency in analytics workflows.  
+*`Python` `Scikit-learn` `Pandas` `XAI` `PyPI`*
 
-**Key Features:**
-- Automated preprocessing pipeline with explainability
-- Comprehensive missing value analysis and handling
-- Advanced encoding strategies for categorical variables
-- Detailed preprocessing reports and visualizations
+### 🧠 [NeuralViz — Linked List Visualizer](https://dev.to/rushedcomet/stop-debugging-by-hand-i-built-a-real-time-linked-list-visualizer-2hjm)
+**Open Source Tool** A real-time linked list visualizer that eliminates manual debugging — live visual feedback as you traverse, insert, and delete nodes, built to make data structure concepts intuitive.  
+*`JavaScript` `Data Structures` `Visualization` `Dev Tools`*
 
----
+<br>
 
-## 📝 Technical Publications
+## ✍️ Technical Writing
 
-**Recent Articles:**
+1. **[Stop Debugging by Hand: I Built a Real-Time Linked List Visualizer](https://dev.to/rushedcomet/stop-debugging-by-hand-i-built-a-real-time-linked-list-visualizer-2hjm)**
+   *A real-time visual debugger for linked lists — no more console.log crawling.*
+2. **[How I Built and Published an Open-Source ML Preprocessing Package on PyPI](https://dev.to/rushedcomet/publishing-to-pypi-my-ml-preprocessing-package-for-newbies-4kn0)**
+   *Designing and publishing my first open-source machine learning library from scratch.*
+3. **[Beyond Tokens: What LLMs Actually Understand](https://dev.to/rushedcomet/beyond-tokens-what-llms-actually-understand-and-what-they-dont-4hdn)**
+   *A deep dive into LLM internals, representations, and the limits of language model comprehension.*
 
-- **[Stop debugging by Hand: I built a Real-Time Linked List visualizer](https://dev.to/rushedcomet/stop-debugging-by-hand-i-built-a-real-time-linked-list-visualizer-2hjm)**
+<br>
 
-- **[How I Built an Open-Source ML Preprocessing Package (And Published it on PyPI)](https://dev.to/rushedcomet/publishing-to-pypi-my-ml-preprocessing-package-for-newbies-4kn0)**  
-  How I built and published mt first Open-Source ML Preprocessing library.
-  
-- **[Beyond Tokens: What LLMs actually Understand](https://dev.to/rushedcomet/beyond-tokens-what-llms-actually-understand-and-what-they-dont-4hdn)**  
-  Deep dive into LLM internals and understanding mechanisms
+## 🏆 Highlights
 
----
+* **Quasar 4.0 Hackathon Finalist** | *National level · VPPCOEVA, Mumbai · Jan 2026*
+* **J.P. Morgan Chase External Program** | *Selected · April 2025*
+* **Megahack 5.0 — Top 15** | *National · 250+ teams · March 2025*
+* **Innovize Hackathon Finalist** | *VJTI, Mumbai · Feb 2025*
 
-## 🤝 Professional Connect
+<br>
+
+## 🤝 Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rishee-panchal" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://rishee-panchal-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://dev.to/rushedcomet" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-</a>
+  <a href="https://www.linkedin.com/in/rishee-panchal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=d97706" alt="LinkedIn"></a>
+  <a href="https://rishee-panchal-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=d97706" alt="Portfolio"></a>
+  <a href="https://dev.to/rushedcomet" target="_blank"><img src="https://img.shields.io/badge/Dev.to-161b22?style=for-the-badge&logo=devdotto&logoColor=d97706" alt="Dev.to"></a>
+  <a href="mailto:rishrash2712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=d97706" alt="Email"></a>
 </p>
 
 ---
 
-*Open to collaborating on innovative ML projects and technical content creation.*
+<p align="center">
+  <i>Open to collaborating on impactful ML projects and technical content · Mumbai, IN</i>
+</p>
