@@ -1,82 +1,78 @@
 # Rishee Panchal
 
-Exploring developing production ready AI systems, cloud native applications, and scalable infrastructure solutions. Currently focused on applied machine learning, and modern cloud architectures.
+Building production-ready AI systems, cloud-native applications, and scalable infrastructure.  
+Currently focused on applied machine learning and modern cloud architectures.
 
----
-
-## 🛠️ Technical Expertise
-
-### Programming & Frameworks
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-</p>
-
-### Cloud & DevOps
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-</p>
-
-### Machine Learning & AI
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
+<p>
+  <a href="https://www.linkedin.com/in/rishee-panchal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://rishee-panchal-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://dev.to/rushedcomet">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
 </p>
 
 ---
 
-## 📦 Featured Open Source Project
+## Technical Expertise
 
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/ml-explain-preprocess?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/ml-explain-preprocess)
-### [ml-explain-preprocess](https://pypi.org/project/ml-explain-preprocess/) 
-**PyPI Package | Machine Learning Preprocessing Library**
+**Languages & Frameworks**
 
-A comprehensive toolkit for explainable machine learning preprocessing, featuring automated handling of missing values, intelligent encoding strategies, detailed preprocessing reports, and comprehensive visualizations. Designed to make ML preprocessing transparent and reproducible.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**Key Features:**
-- Automated preprocessing pipeline with explainability
-- Comprehensive missing value analysis and handling
-- Advanced encoding strategies for categorical variables
-- Detailed preprocessing reports and visualizations
+**Cloud & DevOps**
 
----
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📝 Technical Publications
+**Machine Learning & AI**
 
-**Recent Articles:**
-
-- **[Stop debugging by Hand: I built a Real-Time Linked List visualizer](https://dev.to/rushedcomet/stop-debugging-by-hand-i-built-a-real-time-linked-list-visualizer-2hjm)**
-
-- **[How I Built an Open-Source ML Preprocessing Package (And Published it on PyPI)](https://dev.to/rushedcomet/publishing-to-pypi-my-ml-preprocessing-package-for-newbies-4kn0)**  
-  How I built and published mt first Open-Source ML Preprocessing library.
-  
-- **[Beyond Tokens: What LLMs actually Understand](https://dev.to/rushedcomet/beyond-tokens-what-llms-actually-understand-and-what-they-dont-4hdn)**  
-  Deep dive into LLM internals and understanding mechanisms
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
-## 🤝 Professional Connect
+## Open Source
 
-<p align="left">
-<a href="https://www.linkedin.com/in/rishee-panchal" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://rishee-panchal-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://dev.to/rushedcomet" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-</a>
-</p>
+### [ml-explain-preprocess](https://pypi.org/project/ml-explain-preprocess/)
+
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/ml-explain-preprocess?period=total&units=INTERNATIONAL_SYSTEM&left_color=grey&right_color=brightgreen&left_text=downloads)](https://pepy.tech/projects/ml-explain-preprocess)
+![PyPI](https://img.shields.io/pypi/v/ml-explain-preprocess?style=flat-square&color=brightgreen)
+
+A toolkit for explainable ML preprocessing. Automates missing value handling, applies intelligent encoding strategies, and generates detailed preprocessing reports with visualizations — making pipelines transparent, reproducible, and audit-ready.
+
+| Feature | Description |
+|---|---|
+| Automated pipeline | End-to-end preprocessing with built-in explainability |
+| Missing value analysis | Comprehensive detection, reporting, and treatment |
+| Categorical encoding | Advanced strategies with justification outputs |
+| Reports & visualizations | Detailed artifacts for every preprocessing step |
 
 ---
 
-*Open to collaborating on innovative ML projects and technical content creation.*
+## Publications
+
+**01 &nbsp;** [Stop debugging by hand: I built a real-time linked list visualizer](https://dev.to/rushedcomet/stop-debugging-by-hand-i-built-a-real-time-linked-list-visualizer-2hjm)
+
+**02 &nbsp;** [How I built an open-source ML preprocessing package and published it on PyPI](https://dev.to/rushedcomet/publishing-to-pypi-my-ml-preprocessing-package-for-newbies-4kn0)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A walkthrough of building and publishing my first open-source ML preprocessing library from scratch.
+
+**03 &nbsp;** [Beyond tokens: what LLMs actually understand](https://dev.to/rushedcomet/beyond-tokens-what-llms-actually-understand-and-what-they-dont-4hdn)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A deep dive into LLM internals — how large language models process and represent information under the hood.
+
+---
+
+*Open to collaborating on impactful ML projects and technical content.*
